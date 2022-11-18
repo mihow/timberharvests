@@ -15,3 +15,9 @@ ArcGIS Toolbox for detecting timber harvests over time from Landsat 8 imagery
 ## Toolbox
 
 ![image](https://user-images.githubusercontent.com/158175/111900522-4522d880-89f0-11eb-99b5-5694ba6469f9.png)
+
+## Pre-requisites
+
+Currently you need to download Landsat 8 imagery manually from [USGS Earth Explorer](https://earthexplorer.usgs.gov/). You can find some [instructions from May 2022 here](https://gisgeography.com/usgs-earth-explorer-download-free-landsat-imagery/).
+
+
